@@ -55,5 +55,16 @@
 				"frameworks": ["Django"]
 			}
 		]
+	},
+	{
+		"id":4,
+		"name": "Diego",
+		"age": 22,
+		"knowledge": [
+			{
+				"language": "JAVA",
+				"frameworks": ["JRaptor", "JRail"]
+			}
+		]
 	}
 ]
